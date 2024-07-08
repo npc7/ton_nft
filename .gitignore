@@ -1,0 +1,5 @@
+node_modules
+/sources/output/*
+/sources/utils/*
+/sources/deploy/*
+.env
