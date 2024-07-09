@@ -1,5 +1,7 @@
 node_modules
-/sources/output/*
-/sources/utils/*
-/sources/deploy/*
+/scripts/*
+/build/*
+/temp/*
+/wrappers/*
 .env
+/images/*
